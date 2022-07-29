@@ -14,4 +14,4 @@ Objetivo do desafio: corrigir bugs e organizar o código conforme a maneira com 
 
 Segue abaixo o Desafio - Corrigindo bugs (01) concluído:
 
-
+![Desafio - Corrigindo bugs (01) concluído](https://user-images.githubusercontent.com/107876889/181821355-3de9d6a6-8fb5-4626-8404-3e043266fbbd.jpg)
